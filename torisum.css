@@ -1,0 +1,107 @@
+.bg-container {
+  background-image: url("https://img.pikbest.com/backgrounds/20190402/holiday-travel-island-tourism-poster-background-image_1821770.jpg!w700wp");
+  height: 100vh;
+  background-size: cover;
+}
+.tourism-card {
+  text-align: center;
+  background-color: white;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  padding: 5px;
+  height: 200px;
+  }
+  .para{
+      font-size: 18px;
+      font-family: "Roboto";
+  }
+.button {
+  color: white;
+  background-color: #25b1cc;
+  width: 150px;
+  height: 40px;
+  border-width: 0px;
+  border-radius: 20px;
+}
+.main-heading {
+  font-family: "Open-Serif";
+  font-size:40px;
+}
+.background1{
+    background-image: url("https://images.unsplash.com/photo-1505118380757-91f5f5632de0?q=80&w=926&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    height: 100vh;
+    background-size: cover;
+}
+.mainheading1{
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: 700;
+    color: #B62EC6;
+    padding: 30px;
+}
+.para1{
+  color: #6c6b70;
+  font-family: "Roboto";
+  font-size: 13px;
+  margin-right:15px;
+}
+.card1{
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+}
+.mainheading2{
+  color: #0f0e46;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: bold;
+}
+.image{
+    width: 80px;
+    height: 100px;
+    border-radius: 5px;
+}
+.Detailed-View-Mainheading{
+  color: #B62EC6;
+  font-family: "Roboto";
+  font-size: 25px;
+  font-weight: bold;
+  padding: 24px;
+}
+.Detailed-View-Card{
+  background-color: white;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  margin: 20px;
+}
+.Detailed-View-Card-mainheading{
+  color: #0f0e46;
+  font-family: "Roboto";
+  font-size: 23px;
+  font-weight: bold;
+}
+.Detailed-View-Card-textcontent{
+    padding: 16px;
+}
+.Detailed-View-Card-para{
+    color: #6c6b70;
+  font-family: "Roboto";
+  font-size: 13px;
+}
+.button1{
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 10px;
+    width: 100px;
+    color: #711196;
+    height: 40px;
+    font-family: "Roboto";
+    font-size: 16px;
+    background-color: #9ab9d9;
+    height: 40px;
+}
+.background2{
+     background-image: url("https://pre-webunwto.s3.eu-west-1.amazonaws.com/2019-08/backgrund-ethics.jpg?VersionId=gsGZKaZCuUP..rIv1QUcwGfPl5OC_L_e");
+    height: 100vh;
+    background-size: cover;
+}
